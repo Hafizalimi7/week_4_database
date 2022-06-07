@@ -5,5 +5,5 @@ class Bookmark
       "http://www.destroyallsoftware.com",
       "http://www.google.com"
     ]
-  end
+  end   
 end

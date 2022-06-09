@@ -5,6 +5,9 @@ source "https://rubygems.org"
 # gem "rails"
 gem 'sinatra'
 gem 'sinatra-contrib'
-gem 'rspec'
-gem 'capybara'
 gem 'puma'
+gem 'pg'
+
+
+gem 'capybara', group: :test
+gem 'rspec', group: :test

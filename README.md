@@ -10,3 +10,7 @@ CREATE DATABASE bookmark_manager;
 ```
 
 To set up the appropriate tables, connect to the database in 'psql' and run the SQL scripts in the 'db/migrations' folder in the given order.
+
+CREATE A ANOTHER DATABASE bookmark_manager_test;
+
+run the psql commands for both databases
